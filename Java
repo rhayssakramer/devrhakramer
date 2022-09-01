@@ -1,0 +1,11 @@
+class Main {
+  public static void main(String[] args) {
+    System.out.println("Eu tenho 31 anos");
+    System.out.print("Eu nasci em 1991, no dia 23 do mês 01.\n");
+    int idade = 31;
+    System.out.println(idade);
+    double num1 = 5.2;
+    double num2 = 9.8;
+    System.out.print(num1 + num2);
+  }
+}
